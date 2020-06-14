@@ -16,8 +16,6 @@ header h1{
 	width:50%;
 	text-align: center;
 }
-
-
 header div{
 	width:100px;
 	height:100px;
@@ -37,4 +35,7 @@ header img{
 	width:auto;
 	position:relative;
 	
+}
+#Bilibili{
+	vertical-align: middle;
 }
